@@ -1,2 +1,2 @@
 # bootstrap-project
-https://akbiplobsa.github.io/bootstrap-project/
+https://akbiplobs.github.io/bootstrap-project/
